@@ -54,3 +54,19 @@ li > a {
  p {
      margin: 20px;
  }
+
+ .blog-post {
+     margin: 10px;
+     background-color: white;
+     border-style: solid;
+     border-color: darkgrey;
+     border-radius: 10px;
+     border-width: 1px;
+     padding: 10px;
+ }
+
+ .blog-post > img {
+     float: left;
+     margin-right: 10px;
+     margin-bottom: 10px;
+ }
